@@ -1,0 +1,327 @@
+[
+	{
+		"state": "Colorado",
+		"time": "2022-11-02",
+		"vaccinated": 4755725
+	},
+	{
+		"state": "Georgia",
+		"time": "2022-11-02",
+		"vaccinated": 7167617
+	},
+	{
+		"state": "Hawaii",
+		"time": "2022-11-02",
+		"vaccinated": 1280229
+	},
+	{
+		"state": "Puerto Rico",
+		"time": "2022-11-02",
+		"vaccinated": 3122711
+	},
+	{
+		"state": "Utah",
+		"time": "2022-11-02",
+		"vaccinated": 2388357
+	},
+	{
+		"state": "Virgin Islands",
+		"time": "2022-11-02",
+		"vaccinated": 73193
+	},
+	{
+		"state": "California",
+		"time": "2022-11-02",
+		"vaccinated": 33683407
+	},
+	{
+		"state": "Oklahoma",
+		"time": "2022-11-02",
+		"vaccinated": 2916711
+	},
+	{
+		"state": "Texas",
+		"time": "2022-11-02",
+		"vaccinated": 21779643
+	},
+	{
+		"state": "New York State",
+		"time": "2022-11-02",
+		"vaccinated": 18127801
+	},
+	{
+		"state": "South Dakota",
+		"time": "2022-11-02",
+		"vaccinated": 725232
+	},
+	{
+		"state": "New Hampshire",
+		"time": "2022-11-02",
+		"vaccinated": 1171475
+	},
+	{
+		"state": "Kansas",
+		"time": "2022-11-02",
+		"vaccinated": 2190186
+	},
+	{
+		"state": "Long Term Care",
+		"time": "2021-01-14",
+		"vaccinated": 1195320
+	},
+	{
+		"state": "Nebraska",
+		"time": "2022-11-02",
+		"vaccinated": 1401699
+	},
+	{
+		"state": "New Jersey",
+		"time": "2022-11-02",
+		"vaccinated": 8304839
+	},
+	{
+		"state": "South Carolina",
+		"time": "2022-11-02",
+		"vaccinated": 3611981
+	},
+	{
+		"state": "United States",
+		"time": "2022-11-02",
+		"vaccinated": 266401911
+	},
+	{
+		"state": "Federated States of Micronesia",
+		"time": "2022-11-02",
+		"vaccinated": 82137
+	},
+	{
+		"state": "Florida",
+		"time": "2022-11-02",
+		"vaccinated": 17528535
+	},
+	{
+		"state": "Minnesota",
+		"time": "2022-11-02",
+		"vaccinated": 4388677
+	},
+	{
+		"state": "New Mexico",
+		"time": "2022-11-02",
+		"vaccinated": 1936526
+	},
+	{
+		"state": "Northern Mariana Islands",
+		"time": "2022-11-02",
+		"vaccinated": 46252
+	},
+	{
+		"state": "Oregon",
+		"time": "2022-11-02",
+		"vaccinated": 3390544
+	},
+	{
+		"state": "Connecticut",
+		"time": "2022-11-02",
+		"vaccinated": 3574567
+	},
+	{
+		"state": "Massachusetts",
+		"time": "2022-11-02",
+		"vaccinated": 7162857
+	},
+	{
+		"state": "Michigan",
+		"time": "2022-11-02",
+		"vaccinated": 6874724
+	},
+	{
+		"state": "North Carolina",
+		"time": "2022-11-02",
+		"vaccinated": 9436791
+	},
+	{
+		"state": "Pennsylvania",
+		"time": "2022-11-02",
+		"vaccinated": 11374249
+	},
+	{
+		"state": "Tennessee",
+		"time": "2022-11-02",
+		"vaccinated": 4365370
+	},
+	{
+		"state": "Virginia",
+		"time": "2022-11-02",
+		"vaccinated": 7616979
+	},
+	{
+		"state": "Arkansas",
+		"time": "2022-11-02",
+		"vaccinated": 2082860
+	},
+	{
+		"state": "Maryland",
+		"time": "2022-11-02",
+		"vaccinated": 5459941
+	},
+	{
+		"state": "Missouri",
+		"time": "2022-11-02",
+		"vaccinated": 4203177
+	},
+	{
+		"state": "Indian Health Svc",
+		"time": "2022-11-02",
+		"vaccinated": 1142390
+	},
+	{
+		"state": "Mississippi",
+		"time": "2022-11-02",
+		"vaccinated": 1822277
+	},
+	{
+		"state": "Veterans Health",
+		"time": "2022-11-02",
+		"vaccinated": 3622052
+	},
+	{
+		"state": "West Virginia",
+		"time": "2022-11-02",
+		"vaccinated": 1198498
+	},
+	{
+		"state": "Wisconsin",
+		"time": "2022-11-02",
+		"vaccinated": 4317892
+	},
+	{
+		"state": "Kentucky",
+		"time": "2022-11-02",
+		"vaccinated": 3044853
+	},
+	{
+		"state": "Ohio",
+		"time": "2022-11-02",
+		"vaccinated": 7607174
+	},
+	{
+		"state": "Illinois",
+		"time": "2022-11-02",
+		"vaccinated": 9938834
+	},
+	{
+		"state": "Dept of Defense",
+		"time": "2022-11-02",
+		"vaccinated": 4606391
+	},
+	{
+		"state": "Indiana",
+		"time": "2022-11-02",
+		"vaccinated": 4288871
+	},
+	{
+		"state": "Wyoming",
+		"time": "2022-11-02",
+		"vaccinated": 348109
+	},
+	{
+		"state": "Delaware",
+		"time": "2022-11-02",
+		"vaccinated": 842461
+	},
+	{
+		"state": "Maine",
+		"time": "2022-11-02",
+		"vaccinated": 1279155
+	},
+	{
+		"state": "Alaska",
+		"time": "2022-11-02",
+		"vaccinated": 528402
+	},
+	{
+		"state": "Bureau of Prisons",
+		"time": "2022-11-02",
+		"vaccinated": 152145
+	},
+	{
+		"state": "Vermont",
+		"time": "2022-11-02",
+		"vaccinated": 609521
+	},
+	{
+		"state": "American Samoa",
+		"time": "2022-11-02",
+		"vaccinated": 45985
+	},
+	{
+		"state": "Iowa",
+		"time": "2022-11-02",
+		"vaccinated": 2206878
+	},
+	{
+		"state": "Rhode Island",
+		"time": "2022-11-02",
+		"vaccinated": 1106274
+	},
+	{
+		"state": "Guam",
+		"time": "2022-11-02",
+		"vaccinated": 157402
+	},
+	{
+		"state": "Marshall Islands",
+		"time": "2022-11-02",
+		"vaccinated": 42916
+	},
+	{
+		"state": "Montana",
+		"time": "2022-11-02",
+		"vaccinated": 721120
+	},
+	{
+		"state": "Arizona",
+		"time": "2022-11-02",
+		"vaccinated": 5542126
+	},
+	{
+		"state": "District of Columbia",
+		"time": "2022-11-02",
+		"vaccinated": 777417
+	},
+	{
+		"state": "Nevada",
+		"time": "2022-11-02",
+		"vaccinated": 2399499
+	},
+	{
+		"state": "Republic of Palau",
+		"time": "2022-11-02",
+		"vaccinated": 20668
+	},
+	{
+		"state": "Washington",
+		"time": "2022-11-02",
+		"vaccinated": 6401591
+	},
+	{
+		"state": "Alabama",
+		"time": "2022-11-02",
+		"vaccinated": 3157415
+	},
+	{
+		"state": "Louisiana",
+		"time": "2022-11-02",
+		"vaccinated": 2901555
+	},
+	{
+		"state": "North Dakota",
+		"time": "2022-11-02",
+		"vaccinated": 521085
+	},
+	{
+		"state": "Idaho",
+		"time": "2022-11-02",
+		"vaccinated": 1129423
+	}
+]

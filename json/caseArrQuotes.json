@@ -1,0 +1,326 @@
+[
+	{
+		"time": "2022-05-13",
+		"state": "Mississippi",
+		"cases": 309693,
+		"deaths": 5136
+	},
+	{
+		"time": "2022-05-13",
+		"state": "New Jersey",
+		"cases": 1221572,
+		"deaths": 17675
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Wyoming",
+		"cases": 79918,
+		"deaths": 955
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Maine",
+		"cases": 171254,
+		"deaths": 1692
+	},
+	{
+		"time": "2022-05-13",
+		"state": "New York",
+		"cases": 3737378,
+		"deaths": 53186
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Florida",
+		"cases": 4771221,
+		"deaths": 58331
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Texas",
+		"cases": 3530208,
+		"deaths": 42611
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Pennsylvania",
+		"cases": 1638966,
+		"deaths": 25870
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Indiana",
+		"cases": 761096,
+		"deaths": 9771
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Ohio",
+		"cases": 980378,
+		"deaths": 14865
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Iowa",
+		"cases": 339264,
+		"deaths": 4669
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Oklahoma",
+		"cases": 669997,
+		"deaths": 8996
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Northern Mariana Islands",
+		"cases": 11153,
+		"deaths": 33
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Vermont",
+		"cases": 84895,
+		"deaths": 437
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Arizona",
+		"cases": 2030925,
+		"deaths": 30230
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Puerto Rico",
+		"cases": 529898,
+		"deaths": 0
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Missouri",
+		"cases": 418033,
+		"deaths": 6177
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Massachusetts",
+		"cases": 977062,
+		"deaths": 11952
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Alabama",
+		"cases": 1304710,
+		"deaths": 19628
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Nevada",
+		"cases": 152217,
+		"deaths": 1995
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Virginia",
+		"cases": 1324261,
+		"deaths": 14498
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Georgia",
+		"cases": 1451178,
+		"deaths": 22768
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Connecticut",
+		"cases": 777063,
+		"deaths": 10913
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Nebraska",
+		"cases": 193721,
+		"deaths": 1375
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Alaska",
+		"cases": 254467,
+		"deaths": 1228
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Colorado",
+		"cases": 1262785,
+		"deaths": 11017
+	},
+	{
+		"time": "2022-05-13",
+		"state": "District of Columbia",
+		"cases": 143943,
+		"deaths": 1340
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Rhode Island",
+		"cases": 250499,
+		"deaths": 2629
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Tennessee",
+		"cases": 268407,
+		"deaths": 4233
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Oregon",
+		"cases": 342491,
+		"deaths": 3600
+	},
+	{
+		"time": "2022-05-13",
+		"state": "North Dakota",
+		"cases": 135901,
+		"deaths": 1327
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Michigan",
+		"cases": 1414981,
+		"deaths": 20260
+	},
+	{
+		"time": "2022-05-13",
+		"state": "California",
+		"cases": 9281595,
+		"deaths": 90569
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Wisconsin",
+		"cases": 1070824,
+		"deaths": 9355
+	},
+	{
+		"time": "2022-05-13",
+		"state": "South Carolina",
+		"cases": 896605,
+		"deaths": 10976
+	},
+	{
+		"time": "2022-05-13",
+		"state": "New Mexico",
+		"cases": 440758,
+		"deaths": 6196
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Utah",
+		"cases": 735821,
+		"deaths": 3491
+	},
+	{
+		"time": "2022-05-13",
+		"state": "North Carolina",
+		"cases": 1965649,
+		"deaths": 16871
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Maryland",
+		"cases": 756361,
+		"deaths": 10848
+	},
+	{
+		"time": "2022-05-13",
+		"state": "New Hampshire",
+		"cases": 190991,
+		"deaths": 1453
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Illinois",
+		"cases": 1367872,
+		"deaths": 13411
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Kentucky",
+		"cases": 432781,
+		"deaths": 5465
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Kansas",
+		"cases": 314209,
+		"deaths": 3839
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Delaware",
+		"cases": 266366,
+		"deaths": 2931
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Hawaii",
+		"cases": 251759,
+		"deaths": 1422
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Washington",
+		"cases": 606126,
+		"deaths": 5763
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Minnesota",
+		"cases": 1190842,
+		"deaths": 10202
+	},
+	{
+		"time": "2022-05-13",
+		"state": "South Dakota",
+		"cases": 129696,
+		"deaths": 1622
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Arkansas",
+		"cases": 654989,
+		"deaths": 9399
+	},
+	{
+		"time": "2022-05-13",
+		"state": "West Virginia",
+		"cases": 181467,
+		"deaths": 2548
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Louisiana",
+		"cases": 875118,
+		"deaths": 12535
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Montana",
+		"cases": 201373,
+		"deaths": 2658
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Idaho",
+		"cases": 412223,
+		"deaths": 4588
+	},
+	{
+		"time": "2022-05-13",
+		"state": "Virgin Islands",
+		"cases": 18037,
+		"deaths": 113
+	}
+]
